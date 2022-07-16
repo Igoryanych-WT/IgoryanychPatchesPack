@@ -7,7 +7,8 @@
 ![Steam Favorites](https://img.shields.io/steam/favorites/2835590670?color=blue&logo=steam&style=flat-square)
 ![Steam Update Date](https://img.shields.io/steam/update-date/2835590670?label=last%20update&logo=steam&style=flat-square)
 
-[![visit website button](https://img.shields.io/badge/DOWNLOAD-Steam-blue?style=for-the-badge&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2835590670)
+[![Download Steam](https://img.shields.io/badge/DOWNLOAD-Steam-blue?style=for-the-badge&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2835590670)
+[![Download GitHub](https://img.shields.io/badge/DOWNLOAD-GitHub-white?style=for-the-badge&logo=github)](https://github.com/Igoryanych-WT/IgoryanychPatchesPack/releases)
 
 Modpack containing a variety of chevrons and patches.
 
